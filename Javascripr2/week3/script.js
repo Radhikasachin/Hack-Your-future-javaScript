@@ -171,4 +171,4 @@ function removeDuplicates(arr){
     return unique_array
 }
 
-console.log(removeDuplicates(array_with_duplcates)); // ['a', 'b', 'c', 'd', 'a', 'e', 'f']
+console.log(removeDuplicates(array_with_duplcates)); // ['a', 'b', 'c', 'd', 'e', 'f']
